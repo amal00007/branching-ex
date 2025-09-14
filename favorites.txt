@@ -2,8 +2,5 @@ biriyani
 pizza
 burger
 fffff
-<<<<<<< HEAD
 dddd
-=======
 fg
->>>>>>> e3a1e97ac3ea00a1077dd88fce40e26ee0e8252d
