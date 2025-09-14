@@ -11,4 +11,8 @@ ll
 coffe
 chai
 ds
+<<<<<<< HEAD
 dosa
+=======
+ada
+>>>>>>> foods
