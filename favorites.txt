@@ -8,4 +8,9 @@ fffff
 dddd
 fg
 ll
+<<<<<<< HEAD
 coffe
+=======
+chai
+ds
+>>>>>>> main
