@@ -7,7 +7,5 @@ c
 fffff
 dddd
 fg
-<<<<<<< HEAD
 ll
-=======
->>>>>>> b657205f9bebf8248d17db7e395f631e80a03fa5
+coffe
